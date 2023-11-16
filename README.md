@@ -35,4 +35,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### What it can do at the moment
 1. It can work with simple number operations as can be seen below
-![Screenshot 1](https://github.com/olsihoxha/tysont-lang/sc/main/sc1.png?raw=true)
+![Screenshot 1](https://github.com/olsihoxha/tysont-lang/blob/main/sc/sc1.png?raw=true)
