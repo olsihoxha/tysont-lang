@@ -36,3 +36,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### What it can do at the moment
 1. It can work with simple number operations as can be seen below
 ![Screenshot 1](https://github.com/olsihoxha/tysont-lang/blob/main/sc/sc1.png?raw=true)
+
+### Notes
+_This straightforward language is currently undergoing further development, with additional features set to be introduced beyond those initially mentioned._
